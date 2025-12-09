@@ -411,7 +411,7 @@ kpi-dots{
   .kpi-control{ width:38px; height:38px; font-size:1.4rem; }
 }
 
-/* ================== Stack Embraer ================== */
+/* ================== Stack ================== */
 .stack-section{ background:linear-gradient(180deg,#f9fbff 0%,#ffffff 100%); }
 .stack-grid{
   display:grid;
